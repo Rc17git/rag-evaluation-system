@@ -1,0 +1,20 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Model files
+models/
+*.gguf
+
+# Vector store
+vector_store/
+
+# CSV outputs
+evaluation_results.csv
+
+# Mac
+.DS_Store
+
+*.mp4
+*.mov
